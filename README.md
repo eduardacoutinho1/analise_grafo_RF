@@ -159,6 +159,4 @@ python scripts/grafo_rf_analise.py
 - Pipeline de coleta do Hackmageddon: [github.com/gabrierys/hackmageddon](https://github.com/gabrierys/hackmageddon)
 - Coleta de dados do Telegram: [github.com/lyMartins/Analise-Database-Cybersec](https://github.com/lyMartins/Analise-Database-Cybersec)
 
-## Licença
 
-Este trabalho faz parte de pesquisa acadêmica em andamento no Synapse Lab / UNIFOR.
