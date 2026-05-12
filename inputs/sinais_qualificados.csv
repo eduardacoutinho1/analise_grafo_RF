@@ -1,0 +1,1459 @@
+event_id,event_date,attack_norm,target,country,event_themes,similarity,tg_msg_id,tg_date,tg_group,tg_threats,tg_message,delta_days,lead_time,tipo,evidence_target,evidence_cve,evidence_ransomware,evidence_actor,evidence_score
+H01015,2024-01-19,vulnerability,Multiple organizations,,vuln_exploit,0.6579,T001443,2024-01-06,cissp,vuln_exploit,"exploit
+Analytics
+**Top 10 Vulnerabilities of 2023:**
+
+1. **CVE-2023-34362**: MOVEit Vulnerability
+
+2. **CVE-2023-23397**: MS Outlook PE
+
+3. **CVE-2023-43641**: 1-Click RCE on GNOME
+
+4. **CVE-2023-28252**: Windows CLFS PE
+
+5. **CVE-****2023-2868**: Barracuda ESG CI
+
+6. **CVE-2023-26360**: Adobe ColdFusion
+
+7. **CVE-****2023-4966**: Citrix Bleed
+
+8. **CVE-2023-22952**: SugarCRM RCE
+
+9. **CVE-2023-24880**: Win Smart Screen Bypass
+https://www.vicarius.io/vsociety/posts/windows-smartscreen-security-",-13,13,preditivo,,"CVE-2023-22952, CVE-2023-23397, CVE-2023-24880, CVE-2023-26360, CVE-2023-28252, CVE-2023-34362, CVE-2023-43641",,,28
+H00248,2023-05-01,vulnerability,Level Finance,,vuln_exploit,0.5878,T001967,2023-04-27,cissp,vuln_exploit,"exploit
+1. CVE-2023-21987, CVE-2023-21991:
+Oracle VirtualBox (Core) Vulnerabilities
+https://qriousec.github.io/post/vbox-pwn2own-2023
+
+2. CVE-2023-1389:
+TP-Link Archer/Qrious Security - WAN-side entry
+https://www.zerodayinitiative.com/blog/2023/4/21/tp-link-wan-side-vulnerability-cve-2023-1389-added-to-the-mirai-botnet-arsenal
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defense Today,
+Secure Tomorrow
+@CisoasaService
+1402.02.08",-4,4,preditivo,,"CVE-2023-1389, CVE-2023-21987, CVE-2023-21991",,,12
+H00370,2023-02-14,other,The Hatcher Agency,US,data_breach,0.5661,T002179,2023-02-03,cissp,vuln_exploit,"A new critical authentication vulnerability (CVE-2023-22501) has been discovered in Atlassian's Jira Service Management Server and Data Center products that could allow attackers to gain unauthorized access to vulnerable instances.
+Read: https://thehackernews.com/2023/02/atlassians-jira-software-found.html
+
+Attention: Cyber criminals are actively exploiting known vulnerabilities in Oracle E-Business Suite (CVE-2022-21587) and SugarCRM (CVE-2023-22952) systems. Update now!
+Read: https://thehacker",-11,11,preditivo,,"CVE-2022-21587, CVE-2023-22501, CVE-2023-22952",,,12
+H00862,2023-11-25,vulnerability,Multiple organizations,>1,vuln_exploit,0.6854,T001493,2023-11-13,cissp,vuln_exploit,"Mexploit
+Threat Research
+1. Cisco IOS XE system WebUI unauthorized command execution vulnerability analysis
+https://paper.seebug.org/3072
+
+2. CVE-2023-44275/CVE-2023-44276:
+**Vulnerabilities in OPNsense**
+(FreeBSD-based firewall routing OS)
+https://x41-dsec.de/lab/advisories/x41-2023-001-opnsense
+
+
+⁩-Cyber Security awareness-
+ 
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.08.22",-12,12,preditivo,,"CVE-2023-44275, CVE-2023-44276",,,8
+H00772,2023-11-05,malware,Multiple organizations,>1,"ransomware,malware,vuln_exploit",0.6541,T001520,2023-10-25,cissp,"data_breach,vuln_exploit","exploit
+1. CVE-2023-4966:
+Citrix NetScaler ADC/Gateway Bleed - Session Tokens Leak
+https://github.com/assetnote/exploits/tree/main/citrix/CVE-2023-4966
+
+2. CVE-2023-38140:
+Windows Kernel Paged Pool Memory Disclosure
+https://packetstormsecurity.com/files/cve/CVE-2023-38140
+
+
+⁩-Cyber Security awareness-
+ 
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.08.03",-11,11,preditivo,,"CVE-2023-38140, CVE-2023-4966",,,8
+H00496,2023-07-31,malware,Developers involved in the cryptocurrency sphere,>1,malware,0.6362,T001764,2023-07-17,cissp,"malware,vuln_exploit","Cybercriminals are leveraging exploits for CVE-2021-40444 and CVE-2022-30190 to execute code through malicious Word files. Once opened, LokiBot malware is downloaded, logging keystrokes, capturing screenshots, and stealing data.   
+Read: https://thehackernews.com/2023/07/cybercriminals-exploit-microsoft-word.html
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.04.26",-14,14,preditivo,,"CVE-2021-40444, CVE-2022-30190",,,8
+H00048,2023-02-03,vulnerability,Vulnerable ESXi servers,>1,"ransomware,vuln_exploit",0.6256,T002201,2023-01-26,cissp,vuln_exploit,"OSINT
+Detect Citrix Vulnerabilities With the OSINT Tool: CVE-2022-27510, CVE-2022-27518
+https://blog.criminalip.io/2023/01/20/citrix-vulnerability
+
+
+⁩-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.11.06",-8,8,preditivo,,"CVE-2022-27510, CVE-2022-27518",,,8
+H00649,2023-09-23,malware,Pinal County School Office Data Processing Service Consortium was the victim of a ransomware attack,US,"ransomware,malware",0.619,T001608,2023-09-16,cissp,"ransomware,malware","Malware analysis
+MA detailed analysis of the Money Message Ransomware 2023
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.06.25",-7,7,preditivo,"ransomware, service",,money message,,8
+H00926,2023-10-16,vulnerability,Xfinity,US,,0.6146,T001558,2023-10-10,cissp,"phishing,vuln_exploit","🔒 Hackers are exploiting the CVE-2023-3519 vulnerability in Citrix NetScaler devices for credential harvesting attacks. 
+Patch your systems ASAP! Read more: https://thehackernews.com/2023/10/citrix-devices-under-attack-netscaler.html
+
+🚨 Heads up, Linux users! A new critical vulnerability in the libcue library exposes GNOME Linux systems to remote code execution (RCE) attacks.  
+Read details of CVE-2023-43641 here: https://thehackernews.com/2023/10/libcue-library-flaw-opens-gnome-linux.html
+
+
+⁩-C",-6,6,preditivo,,"CVE-2023-3519, CVE-2023-43641",,,8
+H00790,2023-11-08,malware,Industrial & Commercial Bank of China,US,"ransomware,malware,vuln_exploit",0.6043,T001520,2023-10-25,cissp,"data_breach,vuln_exploit","exploit
+1. CVE-2023-4966:
+Citrix NetScaler ADC/Gateway Bleed - Session Tokens Leak
+https://github.com/assetnote/exploits/tree/main/citrix/CVE-2023-4966
+
+2. CVE-2023-38140:
+Windows Kernel Paged Pool Memory Disclosure
+https://packetstormsecurity.com/files/cve/CVE-2023-38140
+
+
+⁩-Cyber Security awareness-
+ 
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.08.03",-14,14,preditivo,,"CVE-2023-38140, CVE-2023-4966",,,8
+H00448,2023-07-15,malware,George County,US,"ransomware,malware",0.6025,T001788,2023-07-07,cissp,"ransomware,vuln_exploit","Microsoft uncovers the ruthless efficiency of ransomware attacks. 
+In just 5 days, hackers complete the entire attack process, breaching systems, encrypting vital data, and holding organizations hostage. 
+Details: https://thehackernews.com/2023/07/blackbyte-20-ransomware-infiltrate.html
+
+🔒 Yet another critical SQL injection vulnerability (CVE-2023-36934) uncovered in popular MOVEit Transfer—the same software that was exploited in a series of recent cyberattacks to deploy Clop #ransomware. 
+Read ",-8,8,preditivo,,CVE-2023-36934,"clop, blackbyte",,8
+H00849,2023-11-22,vulnerability,CTS,GB,"ransomware,vuln_exploit",0.5997,T001493,2023-11-13,cissp,vuln_exploit,"Mexploit
+Threat Research
+1. Cisco IOS XE system WebUI unauthorized command execution vulnerability analysis
+https://paper.seebug.org/3072
+
+2. CVE-2023-44275/CVE-2023-44276:
+**Vulnerabilities in OPNsense**
+(FreeBSD-based firewall routing OS)
+https://x41-dsec.de/lab/advisories/x41-2023-001-opnsense
+
+
+⁩-Cyber Security awareness-
+ 
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.08.22",-9,9,preditivo,,"CVE-2023-44275, CVE-2023-44276",,,8
+H00430,2023-05-15,account takeover,"25 organizations worldwide, including U.S. and Western European government agencies",>1,"vuln_exploit,account_takeover",0.5551,T001937,2023-05-09,cissp,"ransomware,vuln_exploit,apt","🔒🚨 Heads up: Iranian state-sponsored hackers join financially motivated actors in exploiting a critical flaw (CVE-2023-27350) in PaperCut print management software to achieve initial access to vulnerable servers. 
+Read details here: https://thehackernews.com/2023/05/microsoft-warns-of-state-sponsored.html
+
+Recent ransomware attack on MSI has taken a new turn as hackers have leaked the company's private code signing keys on the #DarkWeb, including Intel Boot Guard used on 116 MSI products. 
+Learn",-6,6,preditivo,including,CVE-2023-27350,,,7
+H01661,2024-10-29,ddos,Unnamed internet service provider (ISP) from Eastern Asia,Unknown,ddos,0.6242,T000542,2024-10-25,PHOfficial,ddos,"‌**Protecting Your Website From DDoS Attack**
+
+Distributed denial-of-service attacks pose an increasing threat to organizations, with even some of the…
+[Read more on Professional Hackers](https://professionalhackers.in/protecting-your-website-from-ddos-attack/)
+
+#hackercombat #Leaks",-4,4,preditivo,"from, service",,,,6
+H00459,2023-06-07,malware,Japanese Android Users,JP,"phishing,malware",0.5888,T001878,2023-06-03,cissp,malware,"Malware analysis
+1. **AceCryptor** **Technical analysis**
+https://www.welivesecurity.com/2023/05/25/shedding-light-acecryptor-operation
+2. DogeRAT Android Malware Campaign
+https://cloudsek.com/blog/dogerat-the-android-malware-campaign-targeting-users-across-multiple-industries
+3. FlowCloud malware infection via USB Flash Drive
+https://insight-jp.nttsecurity.com/post/102ifpu/flowcloud-malware-infection-via-usb-flash-drive
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@Cis",-4,4,preditivo,"android, users",,,,6
+H01248,2024-05-25,ransomware,Seattle Public Library,US,ransomware,0.6395,T001330,2024-05-22,cissp,ransomware,"#DiyakoSecureBow
+————————————
+Among all cyber threats, ransomware groups continue to evolve into formidable adversaries, causing significant financial and operational disruptions.
+
+This Ransomware Threat Landscape: Ransomware Resurgence 2023 report examines the evolving landscape of ransomware attacks from April 1, 2022, to March 31, 2023. The analysis includes 2,708 ransomware victims whose names were publicized by ransomware groups on their underground blogs. The report delves into the targete",-3,3,preditivo,public,,conti,,5
+H00472,2023-07-25,vulnerability,Multiple organizations,>1,vuln_exploit,0.7194,T001753,2023-07-21,cissp,vuln_exploit,"U.S. cybersecurity agency warns of a critical flaw (CVE-2023-3519) in Citrix NetScaler ADC and Gateway devices being exploited by hackers to drop web shells on vulnerable systems.  
+Learn more: https://thehackernews.com/2023/07/citrix-netscaler-adc-and-gateway.html
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.04.30",-4,4,preditivo,,CVE-2023-3519,,,4
+H00472,2023-07-25,vulnerability,Multiple organizations,>1,vuln_exploit,0.7049,T001760,2023-07-19,cissp,vuln_exploit,"ALERT: Critical security flaw in Citrix NetScaler ADC and Gateway being actively exploited! CVE-2023-3519 allows unauthenticated remote code execution. 
+ 
+Read: https://thehackernews.com/2023/07/zero-day-attacks-exploited-critical.html
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.04.28",-6,6,preditivo,,CVE-2023-3519,,,4
+H00772,2023-11-05,malware,Multiple organizations,>1,"ransomware,malware,vuln_exploit",0.6611,T001518,2023-10-25,cissp,vuln_exploit,"🚨 VMware releases crucial security updates to fix a new critical vulnerability (CVE-2023-34048) in vCenter Server. 
+ 
+Details in the article: https://thehackernews.com/2023/10/act-now-vmware-releases-patch-for.html 
+ 
+Protect your systems from remote code execution.
+
+
+
+⁩-Cyber Security awareness-
+ 
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.08.03",-11,11,preditivo,,CVE-2023-34048,,,4
+H00086,2023-01-27,malware,Multiple organizations,>1,"malware,vuln_exploit,supply_chain",0.6592,T002226,2023-01-20,cissp,"malware,vuln_exploit","Researchers are warning of a new Chinese #malware called ""BOLDMOVE"" that exploited a recently discovered vulnerability in Fortinet FortiOS SSL-VPN (CVE-2022-42475) as a zero-day to attack government entities & managed service providers.
+https://thehackernews.com/2023/01/new-chinese-malware-spotted-exploiting.html
+
+
+⁩-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.10.30",-7,7,preditivo,,CVE-2022-42475,,,4
+H00045,2023-02-01,malware,Sistema Integrado de Emergencias y Seguridad- SIES-M,CO,"ransomware,malware",0.6468,T002240,2023-01-18,cissp,ransomware,"Royal & BlackCat Ransomware: The Threat to the Health Sector January 12, 2023
+
+
+⁩-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.10.28",-14,14,preditivo,,,"blackcat, royal",,4
+H00483,2023-07-29,vulnerability,Ellipsis,,vuln_exploit,0.6425,T001753,2023-07-21,cissp,vuln_exploit,"U.S. cybersecurity agency warns of a critical flaw (CVE-2023-3519) in Citrix NetScaler ADC and Gateway devices being exploited by hackers to drop web shells on vulnerable systems.  
+Learn more: https://thehackernews.com/2023/07/citrix-netscaler-adc-and-gateway.html
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.04.30",-8,8,preditivo,,CVE-2023-3519,,,4
+H00485,2023-07-29,vulnerability,MetronomeDAO,,vuln_exploit,0.6237,T001753,2023-07-21,cissp,vuln_exploit,"U.S. cybersecurity agency warns of a critical flaw (CVE-2023-3519) in Citrix NetScaler ADC and Gateway devices being exploited by hackers to drop web shells on vulnerable systems.  
+Learn more: https://thehackernews.com/2023/07/citrix-netscaler-adc-and-gateway.html
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.04.30",-8,8,preditivo,,CVE-2023-3519,,,4
+H00034,2023-01-30,malware,Atlantic General Hospital,US,"ransomware,malware",0.6186,T002240,2023-01-18,cissp,ransomware,"Royal & BlackCat Ransomware: The Threat to the Health Sector January 12, 2023
+
+
+⁩-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.10.28",-12,12,preditivo,,,"blackcat, royal",,4
+H01045,2023-11-14,account takeover,Cloudflare,US,"vuln_exploit,apt,account_takeover",0.6072,T001508,2023-10-31,cissp,vuln_exploit,"⚠️ Alert! Atlassian warns of critical flaw (CVE-2023-22518) in Confluence Data Center and Server. Disconnect publicly accessible instances until patched to avoid data loss. 
+ 
+Learn more: 
+https://thehackernews.com/2023/10/atlassian-warns-of-new-critical.html
+
+
+-Cyber Security awareness-
+ 
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.08.09",-14,14,preditivo,,CVE-2023-22518,,,4
+H00484,2023-07-29,vulnerability,Alchemix,,vuln_exploit,0.6038,T001753,2023-07-21,cissp,vuln_exploit,"U.S. cybersecurity agency warns of a critical flaw (CVE-2023-3519) in Citrix NetScaler ADC and Gateway devices being exploited by hackers to drop web shells on vulnerable systems.  
+Learn more: https://thehackernews.com/2023/07/citrix-netscaler-adc-and-gateway.html
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.04.30",-8,8,preditivo,,CVE-2023-3519,,,4
+H00321,2023-05-22,malware,Madhya Pradesh Power Management Company (MPPMC),IN,"ransomware,malware",0.5996,T001933,2023-05-10,cissp,malware,"Malware analysis
+1. AndoryuBot
+https://www.fortinet.com/blog/threat-research/andoryubot-new-botnet-campaign-targets-ruckus-wireless-admin-remote-code-execution-vulnerability-cve-2023-25717
+
+2. AsyncRAT Loader
+https://www.huntress.com/blog/advanced-cyberchef-tips-asyncrat-loader
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defense Today,
+Secure Tomorrow
+@CisoasaService
+1402.02.20",-12,12,preditivo,,CVE-2023-25717,,,4
+H00248,2023-05-01,vulnerability,Level Finance,,vuln_exploit,0.5939,T001970,2023-04-25,cissp,vuln_exploit,"🔥 New SLP protocol vulnerability (CVE-2023-29552) could be weaponized for massive DoS amplification attacks with an amplification factor of up to 2,200.
+
+Learn more: https://thehackernews.com/2023/04/new-slp-vulnerability-could-let.html
+
+More than 2,000 global organizations and 54,000 SLP instances are said to be affected.
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defense Today,
+Secure Tomorrow
+@CisoasaService
+1402.02.05",-6,6,preditivo,,CVE-2023-29552,,,4
+H01550,2024-11-12,other,Unknown organizations,Unknown,vuln_exploit,0.5931,T000124,2024-11-04,HackingBlogsGroup,vuln_exploit,"🚨Microsoft SharePoint Vulnerability Leads To Exploitation Of Entire Corporate Network
+
+Corporate networks are being initially accessed through the exploitation of CVE-2024-38094. As part of the July Patch Tuesday package, Microsoft discovered a Microsoft SharePoint remote code execution (RCE) vulnerability and classified it as “high-severity“. Rapid7 finds that attackers planted a webshell on a vulnerable SharePoint server by gaining unauthorised access through CVE-2024-38094.
+
+""An authenticated",-8,8,preditivo,,CVE-2024-38094,,,4
+H01120,2024-02-26,vulnerability,Multiple organizations,>1,,0.5873,T001413,2024-02-12,cissp,"malware,data_breach,vuln_exploit","🕵️ Chinese state-backed hackers exploited FortiOS SSL-VPN flaws to breach a Dutch military network, deploying a stealthy backdoor called COATHANGER. 
+Learn more: 
+https://thehackernews.com/2024/02/chinese-hackers-exploited-fortigate.html
+
+🔥 A critical vulnerability has been found in the shim bootloader, leaving millions of Linux systems vulnerable to attack. 
+Learn more about CVE-2023-40547: https://thehackernews.com/2024/02/critical-bootloader-vulnerability-in.html 
+Update your device immediate",-14,14,preditivo,,CVE-2023-40547,,,4
+H01580,2024-12-09,ransomware,​Electrica Group,RO,ransomware,0.5779,T001239,2024-12-03,cissp,"ransomware,vuln_exploit","#DiyakoSecureBow
+————————————
+CISO as A Service (vCISO)
+
+Research
+Offensive Security
+AI-Augmented Ethical Hacking:
+A Practical Examination of Manual Exploitation and Privilege Escalation in Linux Environments 2024.
+
+Special Thanks❤️😇👍🏽🙏
+Haitham S. Al-Sinani and Chris J. Mitchell
+1 Department of Cybersecurity and Quality Assurance, Diwan of Royal Court,
+Muscat, Oman.
+2 Department of Information Security, Royal Holloway, University of London,
+
+-Secure Business Continuity-
+2024.12.03
+——————————————",-6,6,preditivo,,,"conti, royal",,4
+H00485,2023-07-29,vulnerability,MetronomeDAO,,vuln_exploit,0.5652,T001739,2023-07-26,cissp,"phishing,malware,vuln_exploit","🚨 Heads up, network admins! 
+MikroTik RouterOS vulnerability (CVE-2023-30799) exposes 500,000+ systems to potential exploitation!   
+Read: https://thehackernews.com/2023/07/critical-mikrotik-routeros.html
+Upgrade to RouterOS 6.49.8 or 7.x ASAP!
+
+FraudGPT, the latest cybercrime AI tool, is being sold on dark web marketplaces and Telegram channels. It is claimed that it can create undetectable malware and craft convincing phishing emails. 
+Read: https://thehackernews.com/2023/07/new-ai-tool-fraudg",-3,3,preditivo,,CVE-2023-30799,,,4
+H00027,2023-01-23,targeted attack,Pakistan National Transmission & Despatch Company (NTDC),PK,,0.5594,T002256,2023-01-17,cissp,"ddos,vuln_exploit","Below are the critical vulnerabilities being exploited in attacks in the wild:
+
+CVE-2017-12240 (CVSS score of 9.8) – The vulnerability affects the DHCP relay subsystem in IOS and IOS XE software. The vulnerability could be exploited by a remote and unauthenticated attacker that can execute arbitrary code and gain full control of the targeted system. The flaw could be also exploited to cause a denial-of-service (DoS) condition by triggering a buffer overflow via specially crafted DHCPv4 packets.
+",-6,6,preditivo,,CVE-2017-12240,,,4
+H01716,2025-05-18,ransomware,Covenant Health,US,"ransomware,data_breach",0.5593,T000012,2025-05-13,HackingBlogsGroup,vuln_exploit,"🚨🚫VMware Tools CVE-2025-22247 Vulnerability Lets Hackers Tamper with Virtual Machines: Patch Now
+
+Hello There Hackingblogs readers. In a recent security alert, Broadcom-owned VMware disclosed a moderate-severity vulnerability in its VMware Tools software, which is crucial for optimizing and maintaining virtual machines (VMs) on platforms such as ESXi. The vulnerability, identified as VMware Tools CVE-2025-22247 Vulnerability, allows hackers with limited access privileges to tamper with files ins",-5,5,preditivo,,CVE-2025-22247,,,4
+H00300,2023-01-30,vulnerability,InvestorCOM,CA,"data_breach,vuln_exploit",0.559,T002256,2023-01-17,cissp,"ddos,vuln_exploit","Below are the critical vulnerabilities being exploited in attacks in the wild:
+
+CVE-2017-12240 (CVSS score of 9.8) – The vulnerability affects the DHCP relay subsystem in IOS and IOS XE software. The vulnerability could be exploited by a remote and unauthenticated attacker that can execute arbitrary code and gain full control of the targeted system. The flaw could be also exploited to cause a denial-of-service (DoS) condition by triggering a buffer overflow via specially crafted DHCPv4 packets.
+",-13,13,preditivo,,CVE-2017-12240,,,4
+H01421,2024-09-04,malicious script injection,Cisco,US,vuln_exploit,0.5571,T000196,2024-08-28,HackingBlogsGroup,vuln_exploit,"🚨🚨Alert: Million Websites Affects By Vulnerability in
+WordPress Plugin : CVE-2024-6386
+
+💀It was discovered that WPML, a popular plugin for building multilingual WordPress sites with over a million active installations, is vulnerable to server-side template injection attacks.
+
+Read this detailed article 👉🏻https://hackingblogs.com/million-websites-affects-by-vulnerability-in-wordpress-plugin-cve-2024-6386/
+
+Join our Telegram to Get latest Ethical Hacking Content 👉🏻 
+https://t.me/HackingBlogsGroup",-7,7,preditivo,,CVE-2024-6386,,,4
+H01423,2024-09-04,ddos,Several high-profile French organizations,FR,ddos,0.7715,T069353,2024-08-26,hackers_asylum,"ddos,vuln_exploit","🐶 In support of Pavel Durov (CEO Telegram), hackers launched a series of DDoS attacks on the websites of French government agencies.
+
+Source: [leparisien.com](https://www.leparisien.fr/faits-divers/arrestation-de-pavel-durov-vague-de-cyberattaques-et-declarations-publiques-en-soutien-au-patron-de-telegram-25-08-2024-5J7DD64YGBFK7MWXBPTLJF3QG4.php)
+
+#freepavel",-9,9,preditivo,french,,,,3
+H00106,2023-02-17,malware,U.S. Marshals Service (USMS),US,"ransomware,malware",0.6655,T002156,2023-02-12,cissp,malware,"Malware analysis
+""A Detailed Analysis of a New Stealer Called Stealerium"", 2023
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.11.23",-5,5,preditivo,service,,,,3
+H01748,2025-06-22,other,"Separate military system connected to the nuclear sites at Fordow, Natanz and Isfahan",IR,,0.642,T068615,2025-06-18,hackers_asylum,,**JUST IN:** 🇮🇷🇮🇱 Iranian air defense systems intercept Israeli missiles in Tehran,-4,4,preditivo,system,,,,3
+H00106,2023-02-17,malware,U.S. Marshals Service (USMS),US,"ransomware,malware",0.6263,T002155,2023-02-12,cissp,ransomware,"**Incident Overview: Massive Ransomware Attack Targets Unpatched VMWare ESXi Servers
+
+****https://hacklido.com/blog/288-incident-overview-massive-ransomware-attack-targets-unpatched-vmware-esxi-servers****
+
+
+**-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.11.23",-5,5,preditivo,service,,,,3
+H00688,2023-10-12,other,Pro-Palestinian threat actors,IL,,0.5692,T001560,2023-10-09,cissp,,"⚡️ Gaza-based hacker group Storm-1133 targets Israeli energy, defense, and telecom. Microsoft's report exposes tactics, including employing LinkedIn fakes & dynamic C2 infra on Google Drive. 
+Read: 
+https://thehackernews.com/2023/10/gaza-linked-cyber-threat-actor-targets.html
+
+🔐 Multiple high-severity vulnerabilities discovered in ConnectedIO's 3G/4G routers and cloud platform could let hackers execute malicious code and access sensitive data. Get the details: 
+https://thehackernews.com/2023/10/",-3,3,preditivo,threat,,,,3
+H00385,2023-06-23,other,City of Fort Worth,US,ransomware,0.554,T001842,2023-06-13,cissp,vuln_exploit,"Hackers are actively exploiting the latest Fortinet's FortiOS and FortiProxy flaw, targeting government, manufacturing, and critical infrastructure sectors. 
+Learn more: 
+https://thehackernews.com/2023/06/critical-fortios-and-fortiproxy.html 
+Take immediate action and update to the latest firmware now!
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.03.23",-10,10,preditivo,fort,,,,3
+H01713,2025-01-17,malware,Internet Service Providers in China and the West Coast of the U.S.,CN US,malware,0.5504,T000087,2025-01-03,HackingBlogsGroup,,"🚨The US Department Of Treasury Was Hacked By Beijing Based Chinese Hackers
+
+According to a letter to Congress, cyber vendor BeyondTrust was breached by Beijing-backed attackers who gained access to US Department of the Treasury workstations and stole sensitive material.
+
+With access to the stolen key, the threat actor was able to override the service’s security, remotely access certain Treasury DO user workstations, and access certain unclassified documents maintained by those users.”
+
+According",-14,14,preditivo,service,,,,3
+H00706,2023-09-20,malware,Undisclosed organization,,"ransomware,malware,vuln_exploit",0.7171,T001608,2023-09-16,cissp,"ransomware,malware","Malware analysis
+MA detailed analysis of the Money Message Ransomware 2023
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.06.25",-4,4,preditivo,,,money message,,2
+H00867,2023-09-27,malware,Foursquare Healthcare,US,"ransomware,malware",0.6922,T001608,2023-09-16,cissp,"ransomware,malware","Malware analysis
+MA detailed analysis of the Money Message Ransomware 2023
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.06.25",-11,11,preditivo,,,money message,,2
+H00142,2023-03-13,malware,Autoridad de Acueductos y Alcantarillados (AAA),PR,"ransomware,malware",0.6851,T002107,2023-03-10,cissp,"ransomware,malware","Malware analysis
+""ESXi Ransomware - A case study of Royal Ransomware"", 2023
+
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.19",-3,3,preditivo,,,royal,,2
+H01259,2024-06-02,ransomware,Special Health Resources,US,ransomware,0.6822,T001330,2024-05-22,cissp,ransomware,"#DiyakoSecureBow
+————————————
+Among all cyber threats, ransomware groups continue to evolve into formidable adversaries, causing significant financial and operational disruptions.
+
+This Ransomware Threat Landscape: Ransomware Resurgence 2023 report examines the evolving landscape of ransomware attacks from April 1, 2022, to March 31, 2023. The analysis includes 2,708 ransomware victims whose names were publicized by ransomware groups on their underground blogs. The report delves into the targete",-11,11,preditivo,,,conti,,2
+H01265,2024-06-04,ransomware,Vietnam Post,VN,ransomware,0.6712,T001330,2024-05-22,cissp,ransomware,"#DiyakoSecureBow
+————————————
+Among all cyber threats, ransomware groups continue to evolve into formidable adversaries, causing significant financial and operational disruptions.
+
+This Ransomware Threat Landscape: Ransomware Resurgence 2023 report examines the evolving landscape of ransomware attacks from April 1, 2022, to March 31, 2023. The analysis includes 2,708 ransomware victims whose names were publicized by ransomware groups on their underground blogs. The report delves into the targete",-13,13,preditivo,,,conti,,2
+H00179,2023-04-01,malware,Isaac Regional Council,AU,"ransomware,malware",0.6682,T002097,2023-03-18,cissp,ransomware,"🔐👾 LockBit 3.0 — FBI, CISA, and MS-ISAC have issued a joint advisory on this dangerous ransomware, detailing indicators of compromise, tactics, techniques and procedures.
+
+Read: https://thehackernews.com/2023/03/lockbit-30-ransomware-inside.html
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.27",-14,14,preditivo,,,lockbit,,2
+H00198,2023-03-28,malware,BrightSpring Health,US,"ransomware,malware,data_breach",0.6644,T002098,2023-03-17,cissp,"ransomware,malware","Malware analysis
+1. MedusaLocker Ransomware
+https://blog.cyble.com/2023/03/15/unmasking-medusalocker-ransomware
+
+2. Magniber ransomware
+https://blog.google/threat-analysis-group/magniber-ransomware-actors-used-a-variant-of-microsoft-smartscreen-bypass
+
+3. Decrypt strings stealc stealer
+https://github.com/MalGamy/Scripts-With-Malware-Analysis/blob/main/stealc_stealer/decrypt_strings_stealc_stealer.py
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.26",-11,11,preditivo,,,medusa,,2
+H00239,2023-03-13,malware,OMT Officine Meccaniche Torino,IT,"ransomware,malware",0.6643,T002107,2023-03-10,cissp,"ransomware,malware","Malware analysis
+""ESXi Ransomware - A case study of Royal Ransomware"", 2023
+
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.19",-3,3,preditivo,,,royal,,2
+H00105,2023-02-25,malware,Multiple organizations,>1,"malware,vuln_exploit,supply_chain",0.6639,T002162,2023-02-12,cissp,"ransomware,malware","Malware analysis
+1. Qakbot mechanizes distribution of malicious OneNote notebooks
+https://news.sophos.com/en-us/2023/02/06/qakbot-onenote-attacks
+
+2. Cl0p Ransomware
+https://www.sentinelone.com/labs/cl0p-ransomware-targets-linux-systems-with-flawed-encryption-decryptor-available
+
+3. ESXiArgs Ransomware
+https://blogs.blackberry.com/en/2023/02/esxiargs-ransomware-knocking-out-unpatched-vmware-esxi-linux-servers-worldwide
+
+]-> Tool to recover from ESXiArgs ransomware:
+https://github.com/cisagov/ESX",-13,13,preditivo,,,cl0p,,2
+H01585,2024-09-30,other,Byte Federal,US,data_breach,0.6618,T000154,2024-09-24,HackingBlogsGroup,,"🚨$230 Million Bitcoin Were Stolen Which Are Now Recovered : Hacker Under Arrest
+
+Background Story : 230 Million Bitcoin Were Stolen
+Were you aware that on August 19, 2024, Zachxbt The Anonymous Crypto Investigator warned the public saying Seven hours ago a suspicious transfer was made from a possible victim for 4064 BTC ($238M). 
+
+💀The attackers, acting as help professionals from Google and Gemini, fooled the victim into resetting two-factor authentication (2FA) and transferring cash to a compro",-6,6,preditivo,,,,anonymous,2
+H00199,2023-03-28,malware,PharMerica Corporation,US,"ransomware,malware,data_breach",0.6579,T002098,2023-03-17,cissp,"ransomware,malware","Malware analysis
+1. MedusaLocker Ransomware
+https://blog.cyble.com/2023/03/15/unmasking-medusalocker-ransomware
+
+2. Magniber ransomware
+https://blog.google/threat-analysis-group/magniber-ransomware-actors-used-a-variant-of-microsoft-smartscreen-bypass
+
+3. Decrypt strings stealc stealer
+https://github.com/MalGamy/Scripts-With-Malware-Analysis/blob/main/stealc_stealer/decrypt_strings_stealc_stealer.py
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.26",-11,11,preditivo,,,medusa,,2
+H01498,2024-06-03,ransomware,Nidec Corporation,JP,ransomware,0.6505,T001330,2024-05-22,cissp,ransomware,"#DiyakoSecureBow
+————————————
+Among all cyber threats, ransomware groups continue to evolve into formidable adversaries, causing significant financial and operational disruptions.
+
+This Ransomware Threat Landscape: Ransomware Resurgence 2023 report examines the evolving landscape of ransomware attacks from April 1, 2022, to March 31, 2023. The analysis includes 2,708 ransomware victims whose names were publicized by ransomware groups on their underground blogs. The report delves into the targete",-12,12,preditivo,,,conti,,2
+H00217,2023-03-30,malware,Evide,IE,"ransomware,malware",0.6465,T002097,2023-03-18,cissp,ransomware,"🔐👾 LockBit 3.0 — FBI, CISA, and MS-ISAC have issued a joint advisory on this dangerous ransomware, detailing indicators of compromise, tactics, techniques and procedures.
+
+Read: https://thehackernews.com/2023/03/lockbit-30-ransomware-inside.html
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.27",-12,12,preditivo,,,lockbit,,2
+H01543,2024-09-05,ransomware,Great Plains Regional Medical Center,US,ransomware,0.6423,T000193,2024-08-31,HackingBlogsGroup,ransomware,"🚨FBI Alert #StopRansomware :  RansomHub Ransomware Breaches 210 victims in 6 months
+
+RansomHub ransomware have compromised over 210 victims from a variety of important U.S. infrastructure
+
+There are data’s referring to sites like Nissan Dubai Branches have been infiltrated.
+
+Read this Detailed FBI Advisory 👉🏻 https://hackingblogs.com/fbi-initiates-stopransomware-ransomhub-ransomware/
+
+Join out Telegram Link to monitor the exposed company's data 👉🏻 https://t.me/HackingBlogsGroup",-5,5,preditivo,,,ransomhub,,2
+H00364,2023-04-14,malware,International Chapter of the P.E.O. Sisterhood (P.E.O.),US,"ransomware,malware,data_breach",0.6354,T002030,2023-04-06,cissp,"ransomware,malware","Malware analysis
+1. ALPHV Ransomware
+https://www.mandiant.com/resources/blog/alphv-ransomware-backup
+
+2. Analyzing the efile*com Malware
+https://isc.sans.edu/diary/Analyzing+the+efilecom+Malware+efail/29712
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defense Today,
+Secure Tomorrow
+@CisoasaService
+1402.01.17",-8,8,preditivo,,,alphv,,2
+H01588,2024-09-11,ransomware,Granite School District,US,ransomware,0.635,T000193,2024-08-31,HackingBlogsGroup,ransomware,"🚨FBI Alert #StopRansomware :  RansomHub Ransomware Breaches 210 victims in 6 months
+
+RansomHub ransomware have compromised over 210 victims from a variety of important U.S. infrastructure
+
+There are data’s referring to sites like Nissan Dubai Branches have been infiltrated.
+
+Read this Detailed FBI Advisory 👉🏻 https://hackingblogs.com/fbi-initiates-stopransomware-ransomhub-ransomware/
+
+Join out Telegram Link to monitor the exposed company's data 👉🏻 https://t.me/HackingBlogsGroup",-11,11,preditivo,,,ransomhub,,2
+H00315,2023-03-20,malware,Onix Group,US,"ransomware,malware",0.6325,T002107,2023-03-10,cissp,"ransomware,malware","Malware analysis
+""ESXi Ransomware - A case study of Royal Ransomware"", 2023
+
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.19",-10,10,preditivo,,,royal,,2
+H00198,2023-03-28,malware,BrightSpring Health,US,"ransomware,malware,data_breach",0.6267,T002097,2023-03-18,cissp,ransomware,"🔐👾 LockBit 3.0 — FBI, CISA, and MS-ISAC have issued a joint advisory on this dangerous ransomware, detailing indicators of compromise, tactics, techniques and procedures.
+
+Read: https://thehackernews.com/2023/03/lockbit-30-ransomware-inside.html
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.27",-10,10,preditivo,,,lockbit,,2
+H00639,2023-09-20,malware,Hong Kong Consumer Council,HK,"ransomware,malware",0.6258,T001608,2023-09-16,cissp,"ransomware,malware","Malware analysis
+MA detailed analysis of the Money Message Ransomware 2023
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.06.25",-4,4,preditivo,,,money message,,2
+H00189,2023-03-27,malware,Open University of Cyprus (OUC),CY,"ransomware,malware",0.6207,T002098,2023-03-17,cissp,"ransomware,malware","Malware analysis
+1. MedusaLocker Ransomware
+https://blog.cyble.com/2023/03/15/unmasking-medusalocker-ransomware
+
+2. Magniber ransomware
+https://blog.google/threat-analysis-group/magniber-ransomware-actors-used-a-variant-of-microsoft-smartscreen-bypass
+
+3. Decrypt strings stealc stealer
+https://github.com/MalGamy/Scripts-With-Malware-Analysis/blob/main/stealc_stealer/decrypt_strings_stealc_stealer.py
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.26",-10,10,preditivo,,,medusa,,2
+H01689,2024-11-01,ransomware,Memorial Hospital and Manor,US,ransomware,0.6199,T001254,2024-10-28,cissp,"ransomware,malware","#DiyakoSecureBow
+————————————
+CISO as A Service (vCISO)
+
+Infographics
+Malware Analysis
+Ransomware Ecosystem Map, version 27 (2024)
+https://github.com/cert-orangecyberdefense/ransomware_map
+
+Special Thanks❤️😇👍🏽🙏 
+Marine P. 
+
+-Secure Business Continuity-
+2024.10.27
+——————————————————
+#CyberSecurity #vCISO #Pentest #OWASP 
+#SecureBusinessContinuity
+
+https://www.linkedin.com/posts/diyako-secure-bow_malware-analysis-2024-activity-7256551819470925824-F5Tl?utm_source=share&utm_medium=member_ios",-4,4,preditivo,,,conti,,2
+H01238,2024-05-06,malware,Multiple organizations,>1,malware,0.6193,T001352,2024-04-23,cissp,"ransomware,phishing,malware,vuln_exploit","#DiyakoSecureBow
+————————————
+Malware analysis
+Voice Phishing Syndicates Unmasked: An In-Depth Investigation and Exposure 2024.
+
+Special Thanks❤️😇👍🏽🙏
+BlackHat    
+
+-Secure Business Continuity-
+2024.04.23
+——————————————————
+#CyberSecurity #VoIP #Exploit #Phishing
+#SecureBusinessContinuity
+
+https://www.linkedin.com/posts/diyako-secure-bow_voice-phishing-2024-activity-7188394361255034880-NQ-x?utm_source=share&utm_medium=member_ios",-13,13,preditivo,,,conti,,2
+H00199,2023-03-28,malware,PharMerica Corporation,US,"ransomware,malware,data_breach",0.6184,T002097,2023-03-18,cissp,ransomware,"🔐👾 LockBit 3.0 — FBI, CISA, and MS-ISAC have issued a joint advisory on this dangerous ransomware, detailing indicators of compromise, tactics, techniques and procedures.
+
+Read: https://thehackernews.com/2023/03/lockbit-30-ransomware-inside.html
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.27",-10,10,preditivo,,,lockbit,,2
+H00129,2023-02-17,malware,Attent Zorg en Behandeling,NL,"ransomware,malware",0.6155,T002162,2023-02-12,cissp,"ransomware,malware","Malware analysis
+1. Qakbot mechanizes distribution of malicious OneNote notebooks
+https://news.sophos.com/en-us/2023/02/06/qakbot-onenote-attacks
+
+2. Cl0p Ransomware
+https://www.sentinelone.com/labs/cl0p-ransomware-targets-linux-systems-with-flawed-encryption-decryptor-available
+
+3. ESXiArgs Ransomware
+https://blogs.blackberry.com/en/2023/02/esxiargs-ransomware-knocking-out-unpatched-vmware-esxi-linux-servers-worldwide
+
+]-> Tool to recover from ESXiArgs ransomware:
+https://github.com/cisagov/ESX",-5,5,preditivo,,,cl0p,,2
+H01125,2024-03-13,ddos,Alabama State Government websites,US,ddos,0.6154,T069591,2024-02-29,hackers_asylum,"ransomware,ddos","Anonymous Sudan Ransomware Group launches a widespread DDoS attack on Chad's telecommunications and internet infrastructure, demanding the immediate expulsion of RSF soldiers and shutdown of supply lines.
+
+#news",-13,13,preditivo,,,,anonymous,2
+H00530,2023-08-14,vulnerability,Zunami Protocol,,vuln_exploit,0.6145,T001708,2023-08-08,cissp,"ransomware,malware","Malware_analysis
+Inside Akira Ransomware Negotiations
+https://www.lab539.com/blog/inside-akira-ransomware-negotiations
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.05.17",-6,6,preditivo,,,akira,,2
+H00239,2023-03-13,malware,OMT Officine Meccaniche Torino,IT,"ransomware,malware",0.6129,T002119,2023-03-03,cissp,ransomware,"ALERT: Royal ransomware is back and targeting U.S. and international organizations!
+It infiltrates networks, disables #antivirus software and steals data before deploying ransomware
+Learn how to protect yourself with CISA's latest advisory: https://thehackernews.com/2023/03/us-cybersecurity-agency-raises-alarm.html
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.12",-10,10,preditivo,,,royal,,2
+H00106,2023-02-17,malware,U.S. Marshals Service (USMS),US,"ransomware,malware",0.6129,T002162,2023-02-12,cissp,"ransomware,malware","Malware analysis
+1. Qakbot mechanizes distribution of malicious OneNote notebooks
+https://news.sophos.com/en-us/2023/02/06/qakbot-onenote-attacks
+
+2. Cl0p Ransomware
+https://www.sentinelone.com/labs/cl0p-ransomware-targets-linux-systems-with-flawed-encryption-decryptor-available
+
+3. ESXiArgs Ransomware
+https://blogs.blackberry.com/en/2023/02/esxiargs-ransomware-knocking-out-unpatched-vmware-esxi-linux-servers-worldwide
+
+]-> Tool to recover from ESXiArgs ransomware:
+https://github.com/cisagov/ESX",-5,5,preditivo,,,cl0p,,2
+H01550,2024-11-12,other,Unknown organizations,Unknown,vuln_exploit,0.6126,T001251,2024-10-31,cissp,ransomware,"#DiyakoSecureBow
+————————————
+CISO as A Service (vCISO)
+
+Threat Research
+The CTI Research Guide: Curated Intelligence 2024.
+
+Special Thanks❤️😇👍🏽🙏
+Curated Intelligence 
+
+-Secure Business Continuity-
+2024.10.31
+——————————————————
+#Threat #CTI #CyberSecurity #vCISO
+#SecureBusinessContinuity
+
+https://www.linkedin.com/posts/diyako-secure-bow_cti-2024-activity-7257701114333020160-BKHJ?",-12,12,preditivo,,,conti,,2
+H00255,2023-03-27,malware,Pacific Union College (PUC),US,"ransomware,malware,data_breach",0.6125,T002097,2023-03-18,cissp,ransomware,"🔐👾 LockBit 3.0 — FBI, CISA, and MS-ISAC have issued a joint advisory on this dangerous ransomware, detailing indicators of compromise, tactics, techniques and procedures.
+
+Read: https://thehackernews.com/2023/03/lockbit-30-ransomware-inside.html
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.27",-9,9,preditivo,,,lockbit,,2
+H01656,2024-09-11,ransomware,Town of Ulster,US,ransomware,0.6107,T000193,2024-08-31,HackingBlogsGroup,ransomware,"🚨FBI Alert #StopRansomware :  RansomHub Ransomware Breaches 210 victims in 6 months
+
+RansomHub ransomware have compromised over 210 victims from a variety of important U.S. infrastructure
+
+There are data’s referring to sites like Nissan Dubai Branches have been infiltrated.
+
+Read this Detailed FBI Advisory 👉🏻 https://hackingblogs.com/fbi-initiates-stopransomware-ransomhub-ransomware/
+
+Join out Telegram Link to monitor the exposed company's data 👉🏻 https://t.me/HackingBlogsGroup",-11,11,preditivo,,,ransomhub,,2
+H00214,2023-03-24,malware,CH Media,CH,"ransomware,malware",0.6095,T002097,2023-03-18,cissp,ransomware,"🔐👾 LockBit 3.0 — FBI, CISA, and MS-ISAC have issued a joint advisory on this dangerous ransomware, detailing indicators of compromise, tactics, techniques and procedures.
+
+Read: https://thehackernews.com/2023/03/lockbit-30-ransomware-inside.html
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.27",-6,6,preditivo,,,lockbit,,2
+H00192,2023-03-13,malware,Police Department in Camden County,US,"ransomware,malware",0.6077,T002107,2023-03-10,cissp,"ransomware,malware","Malware analysis
+""ESXi Ransomware - A case study of Royal Ransomware"", 2023
+
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.19",-3,3,preditivo,,,royal,,2
+H00204,2023-04-09,vulnerability,GDAC,KR,,0.6066,T002036,2023-04-04,cissp,"apt,supply_chain","A supply chain attack targeting 3CX has been linked to North Korea's Lazarus Group, with the second-stage implant (Gopuram) specifically singling out a select few cryptocurrency companies.
+Learn more: https://thehackernews.com/2023/04/cryptocurrency-companies-targeted-in.html
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defense Today,
+Secure Tomorrow
+@CisoasaService
+1402.01.16",-5,5,preditivo,,,,lazarus,2
+H00192,2023-03-13,malware,Police Department in Camden County,US,"ransomware,malware",0.6053,T002119,2023-03-03,cissp,ransomware,"ALERT: Royal ransomware is back and targeting U.S. and international organizations!
+It infiltrates networks, disables #antivirus software and steals data before deploying ransomware
+Learn how to protect yourself with CISA's latest advisory: https://thehackernews.com/2023/03/us-cybersecurity-agency-raises-alarm.html
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.12",-10,10,preditivo,,,royal,,2
+H00535,2023-08-15,malware,Postel,IT,"ransomware,malware",0.6014,T001708,2023-08-08,cissp,"ransomware,malware","Malware_analysis
+Inside Akira Ransomware Negotiations
+https://www.lab539.com/blog/inside-akira-ransomware-negotiations
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.05.17",-7,7,preditivo,,,akira,,2
+H00286,2023-03-13,malware,Kline & Specter,US,"ransomware,malware",0.6005,T002107,2023-03-10,cissp,"ransomware,malware","Malware analysis
+""ESXi Ransomware - A case study of Royal Ransomware"", 2023
+
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.19",-3,3,preditivo,,,royal,,2
+H00914,2023-12-13,malware,Tulane University,US,"ransomware,malware",0.6,T001475,2023-12-09,cissp,"ransomware,vuln_exploit","#DiyakoSecureBow
+———————————
+2013 Cyber Claims Report :
+
+Cyber Claims Increased in the Face of Surging Attacks
+
+Ransomware Severity Climbed to Historic High
+
+Funds Transfer Fraud Severity Spiked
+
+Email Security Remained Critical to Claims Reduction
+
+MOVEit Quickly Evolved into Widespread Exploitation
+
+How Businesses Can Actively Address Cyber Risk☺️
+
+Methodology
+
+Special Thanks 
+Coalition, Inc. 
+
+-Business Secure Continuity-
+1402.09.18
+——————————————————
+#cybersecurity #crime  #multifactorauthen",-4,4,preditivo,,,conti,,2
+H00189,2023-03-27,malware,Open University of Cyprus (OUC),CY,"ransomware,malware",0.5995,T002097,2023-03-18,cissp,ransomware,"🔐👾 LockBit 3.0 — FBI, CISA, and MS-ISAC have issued a joint advisory on this dangerous ransomware, detailing indicators of compromise, tactics, techniques and procedures.
+
+Read: https://thehackernews.com/2023/03/lockbit-30-ransomware-inside.html
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.27",-9,9,preditivo,,,lockbit,,2
+H00535,2023-08-15,malware,Postel,IT,"ransomware,malware",0.5964,T001711,2023-08-07,cissp,ransomware,"#DiyakoSecureBow
+
+The ransomware economy is supported by a number of illicit groups that each provide one small piece of the puzzle that is cybercrime. From initial access brokers (IABs) to crypto money launderers, the criminal ecosystem that has sprung up around ransomware is vast.
+Halcyon researchers suggest there is yet another player that is, perhaps unwittingly, supporting the booming ransomware economy and other attack operations: the Command-and-Control Providers (C2P) who sell services t",-8,8,preditivo,,,play,,2
+H01248,2024-05-25,ransomware,Seattle Public Library,US,ransomware,0.5947,T001336,2024-05-12,cissp,ransomware,"#DiyakoSecureBow
+————————————
+2023 State Of Ransomware In Education.
+84% increase in known attacks over 6-month
+
+Special Thanks❤️😇👍🏽🙏
+Threat Intelligence Lab 
+
+-Secure Business Continuity-
+2024.05.12
+——————————————————
+#CyberSecurity #Ransomware #Leakage #Threat
+#SecureBusinessContinuity
+
+https://www.linkedin.com/posts/diyako-secure-bow_state-of-ransomware-2023-activity-7195336246406086658-x6AM?utm_source=share&utm_medium=member_ios",-13,13,preditivo,,,conti,,2
+H01104,2024-02-26,malware,Mutiple organizations,>1,malware,0.5912,T069602,2024-02-21,hackers_asylum,"ransomware,data_breach","**🚨LockBit Ransomware Gang Exposed: NCA and Law Enforcement Sting Reveals Affiliate Details**
+
+
+In a groundbreaking development, the National Crime Agency (NCA) and international law enforcement agencies have uncovered a major breakthrough in the fight against cybercrime. A substantial amount of data was exfiltrated from LockBit's platform before its corruption, marking a pivotal moment in dismantling the criminal infrastructure behind the nefarious LockBit ransomware operations.
+
+
+The exposed d",-5,5,preditivo,,,lockbit,,2
+H00763,2023-10-25,malware,Spolzino Termosanitari,IT,"ransomware,malware",0.5911,T001553,2023-10-12,cissp,ransomware,"[#DiyakoSecureBow](https://www.linkedin.com/feed/hashtag/diyakosecurebow?trk=organization_guest_main-feed-card-text)
+————————————
+Cybersecurity Playbook for SOC
+1. Attack utilizing a known vulnerability
+An attacker utilizing a known vulnerability has been detected.
+
+Detection:
+• Network detection from IDS/IPS/network threat detection capability
+• Endpoint detection from the targeted host
+
+Verification;
+• The event is validated with the asset list. If the known vulnerable software/hardware
+is not",-13,13,preditivo,,,play,,2
+H01243,2023-09-24,ransomware,Association of California School Administrators,US,ransomware,0.5898,T001608,2023-09-16,cissp,"ransomware,malware","Malware analysis
+MA detailed analysis of the Money Message Ransomware 2023
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.06.25",-8,8,preditivo,,,money message,,2
+H01525,2024-11-02,ransomware,Memorial Hospital and Manor,US,"ransomware,data_breach",0.5891,T001254,2024-10-28,cissp,"ransomware,malware","#DiyakoSecureBow
+————————————
+CISO as A Service (vCISO)
+
+Infographics
+Malware Analysis
+Ransomware Ecosystem Map, version 27 (2024)
+https://github.com/cert-orangecyberdefense/ransomware_map
+
+Special Thanks❤️😇👍🏽🙏 
+Marine P. 
+
+-Secure Business Continuity-
+2024.10.27
+——————————————————
+#CyberSecurity #vCISO #Pentest #OWASP 
+#SecureBusinessContinuity
+
+https://www.linkedin.com/posts/diyako-secure-bow_malware-analysis-2024-activity-7256551819470925824-F5Tl?utm_source=share&utm_medium=member_ios",-5,5,preditivo,,,conti,,2
+H00188,2023-03-24,malware,Noteboom,US,"ransomware,malware",0.5884,T002097,2023-03-18,cissp,ransomware,"🔐👾 LockBit 3.0 — FBI, CISA, and MS-ISAC have issued a joint advisory on this dangerous ransomware, detailing indicators of compromise, tactics, techniques and procedures.
+
+Read: https://thehackernews.com/2023/03/lockbit-30-ransomware-inside.html
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.27",-6,6,preditivo,,,lockbit,,2
+H00379,2023-03-23,malware,Atlanta Postal Credit Union,US,"ransomware,malware,data_breach",0.5877,T002097,2023-03-18,cissp,ransomware,"🔐👾 LockBit 3.0 — FBI, CISA, and MS-ISAC have issued a joint advisory on this dangerous ransomware, detailing indicators of compromise, tactics, techniques and procedures.
+
+Read: https://thehackernews.com/2023/03/lockbit-30-ransomware-inside.html
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.27",-5,5,preditivo,,,lockbit,,2
+H00550,2023-08-18,malware,CloudNordic,DK,"ransomware,malware",0.5868,T001711,2023-08-07,cissp,ransomware,"#DiyakoSecureBow
+
+The ransomware economy is supported by a number of illicit groups that each provide one small piece of the puzzle that is cybercrime. From initial access brokers (IABs) to crypto money launderers, the criminal ecosystem that has sprung up around ransomware is vast.
+Halcyon researchers suggest there is yet another player that is, perhaps unwittingly, supporting the booming ransomware economy and other attack operations: the Command-and-Control Providers (C2P) who sell services t",-11,11,preditivo,,,play,,2
+H01578,2024-12-02,other,BeyondTrust,US,,0.5865,T001246,2024-11-22,cissp,"ransomware,vuln_exploit","#DiyakoSecureBow
+————————————
+CISO as A Service (vCISO)
+
+Analytics
+Threat Research
+2023 Top Routinely Exploited Vulnerabilities
+
+Special Thanks❤️😇👍🏽🙏
+CISA Alumni Group,… 
+
+-Secure Business Continuity-
+2024.11.22
+——————————————————
+#CyberSecurity #vCISO #Vulnerability
+#SecureBusinessContinuity
+
+https://www.linkedin.com/posts/diyako-secure-bow_top-vulnerabilities-2023-activity-7265654191891628032-ypUk?utm_source=share&utm_medium=member_ios",-10,10,preditivo,,,conti,,2
+H00402,2023-06-15,malware,Lebanon School District,LB,"ransomware,malware",0.5864,T001865,2023-06-09,cissp,"ransomware,malware","Malware analysis
+Akira Ransomware
+https://news.sophos.com/en-us/2023/05/09/akira-ransomware-is-bringin-88-back
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.03.19",-6,6,preditivo,,,akira,,2
+H00219,2023-03-16,malware,Town of Ballwin,US,"ransomware,malware",0.5855,T002107,2023-03-10,cissp,"ransomware,malware","Malware analysis
+""ESXi Ransomware - A case study of Royal Ransomware"", 2023
+
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.19",-6,6,preditivo,,,royal,,2
+H01097,2024-02-21,other,Cencora,US,,0.5854,T001414,2024-02-12,cissp,ransomware,"#DiyakoSecureBow
+————————————
+STATE OF CYBER AWARENESS IN THE
+BOARD ROOM REPORT:
+
+An In-Depth Analysis of the State of Cyber Awareness, Education, and Expertise of Board of Directors at S&P 500 Companies.
+
+Cyber risk is now one of the top risk areas boards are spending time on and raising their awareness of the resiliency needs across their respective organizations and sectors. With the recent finalization of the SEC rules on cybersecurity disclosures, I am expecting the evolution to continue at",-9,9,preditivo,,,conti,,2
+H01508,2024-09-13,ransomware,Rocky Mountain Gastroenterology,US,ransomware,0.5849,T000193,2024-08-31,HackingBlogsGroup,ransomware,"🚨FBI Alert #StopRansomware :  RansomHub Ransomware Breaches 210 victims in 6 months
+
+RansomHub ransomware have compromised over 210 victims from a variety of important U.S. infrastructure
+
+There are data’s referring to sites like Nissan Dubai Branches have been infiltrated.
+
+Read this Detailed FBI Advisory 👉🏻 https://hackingblogs.com/fbi-initiates-stopransomware-ransomhub-ransomware/
+
+Join out Telegram Link to monitor the exposed company's data 👉🏻 https://t.me/HackingBlogsGroup",-13,13,preditivo,,,ransomhub,,2
+H00908,2023-08-21,malware,Keenan & Associates,US,"ransomware,malware,data_breach",0.5826,T001708,2023-08-08,cissp,"ransomware,malware","Malware_analysis
+Inside Akira Ransomware Negotiations
+https://www.lab539.com/blog/inside-akira-ransomware-negotiations
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.05.17",-13,13,preditivo,,,akira,,2
+H00393,2023-06-21,other,Radeal,PL,,0.5816,T001865,2023-06-09,cissp,"ransomware,malware","Malware analysis
+Akira Ransomware
+https://news.sophos.com/en-us/2023/05/09/akira-ransomware-is-bringin-88-back
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.03.19",-12,12,preditivo,,,akira,,2
+H01263,2024-06-03,ransomware,Synnovis,GB,ransomware,0.5811,T001330,2024-05-22,cissp,ransomware,"#DiyakoSecureBow
+————————————
+Among all cyber threats, ransomware groups continue to evolve into formidable adversaries, causing significant financial and operational disruptions.
+
+This Ransomware Threat Landscape: Ransomware Resurgence 2023 report examines the evolving landscape of ransomware attacks from April 1, 2022, to March 31, 2023. The analysis includes 2,708 ransomware victims whose names were publicized by ransomware groups on their underground blogs. The report delves into the targete",-12,12,preditivo,,,conti,,2
+H01550,2024-11-12,other,Unknown organizations,Unknown,vuln_exploit,0.5803,T001248,2024-11-09,cissp,ransomware,"#DiyakoSecureBow
+————————————
+CISO as A Service (vCISO)
+
+Analytics
+2024 State of Threat and Exposure Management Report
+
+Special Thanks❤️😇👍🏽🙏
+NopSec 
+
+-Secure Business Continuity-
+2024.11.09
+——————————————————
+#Mitre #Attack #CVE #CyberSecurity #vCISO
+#SecureBusinessContinuity
+
+https://www.linkedin.com/posts/diyako-secure-bow_state-threat-exp-report-2024-activity-7260913892095119360-tsNV?utm_source=share&utm_medium=member_ios",-3,3,preditivo,,,conti,,2
+H00829,2023-11-20,other,Idaho National Laboratory,US,,0.5802,T001502,2023-11-06,cissp,ransomware,"#DiyakoSecureBow
+————————————
+Analytics
+ENISA Threat Landscape 2023
+
+the latter part of 2022 and the first half of 2023, the cybersecurity landscape witnessed a significant increase in both the variety and quantity of cyberattacks and their consequences. The ongoing war of aggression against Ukraine continued to influence the landscape. 
+
+Hacktivism has expanded with the emergence of new groups, while ransomware incidents surged in the first half of 2023 and showed no signs of slowing down. The ",-14,14,preditivo,,,conti,,2
+H01432,2024-09-11,ransomware,Providence Public School District,US,ransomware,0.5784,T000193,2024-08-31,HackingBlogsGroup,ransomware,"🚨FBI Alert #StopRansomware :  RansomHub Ransomware Breaches 210 victims in 6 months
+
+RansomHub ransomware have compromised over 210 victims from a variety of important U.S. infrastructure
+
+There are data’s referring to sites like Nissan Dubai Branches have been infiltrated.
+
+Read this Detailed FBI Advisory 👉🏻 https://hackingblogs.com/fbi-initiates-stopransomware-ransomhub-ransomware/
+
+Join out Telegram Link to monitor the exposed company's data 👉🏻 https://t.me/HackingBlogsGroup",-11,11,preditivo,,,ransomhub,,2
+H00726,2023-10-23,malware,Grupo GTD,CL,"ransomware,malware",0.5783,T001553,2023-10-12,cissp,ransomware,"[#DiyakoSecureBow](https://www.linkedin.com/feed/hashtag/diyakosecurebow?trk=organization_guest_main-feed-card-text)
+————————————
+Cybersecurity Playbook for SOC
+1. Attack utilizing a known vulnerability
+An attacker utilizing a known vulnerability has been detected.
+
+Detection:
+• Network detection from IDS/IPS/network threat detection capability
+• Endpoint detection from the targeted host
+
+Verification;
+• The event is validated with the asset list. If the known vulnerable software/hardware
+is not",-11,11,preditivo,,,play,,2
+H00188,2023-03-24,malware,Noteboom,US,"ransomware,malware",0.5776,T002098,2023-03-17,cissp,"ransomware,malware","Malware analysis
+1. MedusaLocker Ransomware
+https://blog.cyble.com/2023/03/15/unmasking-medusalocker-ransomware
+
+2. Magniber ransomware
+https://blog.google/threat-analysis-group/magniber-ransomware-actors-used-a-variant-of-microsoft-smartscreen-bypass
+
+3. Decrypt strings stealc stealer
+https://github.com/MalGamy/Scripts-With-Malware-Analysis/blob/main/stealc_stealer/decrypt_strings_stealc_stealer.py
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.26",-7,7,preditivo,,,medusa,,2
+H00976,2024-01-06,ransomware,loanDepot,US,ransomware,0.5763,T001448,2023-12-27,cissp,"ransomware,malware,vuln_exploit","Let's go to the specialized analysis of a series of malware:
+Malware analysis
+1. Qilin Ransomware
+https://lnkd.in/eCgeYhwY
+2. The csharp-streamer RAT
+https://lnkd.in/eQrTj6YF
+
+Let's go to the techniques of resistance and security (Hardening) against attacks and abuses(Exploit):
+Exploitation Mitigations
+Knowledge base of exploit mitigations for various OS, architectures, applications and versions
+https://lnkd.in/duccdB5
+
+And
+🚨 New Linux Trojan Alert! 
+Meet ""Krasue,"" a stealthy remote access troja",-10,10,preditivo,,,qilin,,2
+H00832,2023-08-16,malware,Two members of civil society from Belgrade,RS,"malware,vuln_exploit",0.5762,T001708,2023-08-08,cissp,"ransomware,malware","Malware_analysis
+Inside Akira Ransomware Negotiations
+https://www.lab539.com/blog/inside-akira-ransomware-negotiations
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.05.17",-8,8,preditivo,,,akira,,2
+H00758,2023-10-31,vulnerability,Unibot,>1,vuln_exploit,0.5758,T001521,2023-10-24,cissp,ransomware,"[#DiyakoSecureBow](https://www.linkedin.com/feed/hashtag/diyakosecurebow?trk=organization_guest_main-feed-card-text)
+————————————
+Cybersecurity Playbook for SOC:
+
+New vulnerability from Threat Intelligence
+Undoubtedly the one you will execute most, a new vulnerability from threat intelligence.
+
+Detection
+• Threat intelligence indicates there is a new vulnerability impacting your assets.
+• Here I assume the threat intelligence is already tuned to only include information relevant to your assets i",-7,7,preditivo,,,play,,2
+H00637,2023-09-22,malware,Philippine Health Insurance Corporation (PhilHealth),PH,"ransomware,malware",0.5754,T001608,2023-09-16,cissp,"ransomware,malware","Malware analysis
+MA detailed analysis of the Money Message Ransomware 2023
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.06.25",-6,6,preditivo,,,money message,,2
+H01606,2024-09-23,ransomware,American Addiction Centers,US,ransomware,0.5747,T000160,2024-09-17,HackingBlogsGroup,"ransomware,data_breach","💀Kawasaki Was Hacked : RansomHub releases 487GB of Leaked Data
+
+487 gigabytes of data reportedly stolen from motorbike company Kawasaki Motors Europe (KME) have been made public by the RansomHub ransomware organisation.Financial and corporate information were compromised, which makes cybersecurity worries for international companies more pressing.
+
+“At the start of September, Kawasaki Motors Europe, (KME) was the subject of a cyber-attack which, although not successful, resulted in the company’s",-6,6,preditivo,,,ransomhub,,2
+H01091,2024-02-22,vulnerability,Multiple organizations,>1,vuln_exploit,0.5739,T001414,2024-02-12,cissp,ransomware,"#DiyakoSecureBow
+————————————
+STATE OF CYBER AWARENESS IN THE
+BOARD ROOM REPORT:
+
+An In-Depth Analysis of the State of Cyber Awareness, Education, and Expertise of Board of Directors at S&P 500 Companies.
+
+Cyber risk is now one of the top risk areas boards are spending time on and raising their awareness of the resiliency needs across their respective organizations and sectors. With the recent finalization of the SEC rules on cybersecurity disclosures, I am expecting the evolution to continue at",-10,10,preditivo,,,conti,,2
+H00101,2023-02-23,malware,Dish Network,US,"ransomware,malware",0.5737,T002162,2023-02-12,cissp,"ransomware,malware","Malware analysis
+1. Qakbot mechanizes distribution of malicious OneNote notebooks
+https://news.sophos.com/en-us/2023/02/06/qakbot-onenote-attacks
+
+2. Cl0p Ransomware
+https://www.sentinelone.com/labs/cl0p-ransomware-targets-linux-systems-with-flawed-encryption-decryptor-available
+
+3. ESXiArgs Ransomware
+https://blogs.blackberry.com/en/2023/02/esxiargs-ransomware-knocking-out-unpatched-vmware-esxi-linux-servers-worldwide
+
+]-> Tool to recover from ESXiArgs ransomware:
+https://github.com/cisagov/ESX",-11,11,preditivo,,,cl0p,,2
+H01340,2024-05-22,ransomware,Northeast Rehabilitation Hospital Network,US,ransomware,0.572,T001336,2024-05-12,cissp,ransomware,"#DiyakoSecureBow
+————————————
+2023 State Of Ransomware In Education.
+84% increase in known attacks over 6-month
+
+Special Thanks❤️😇👍🏽🙏
+Threat Intelligence Lab 
+
+-Secure Business Continuity-
+2024.05.12
+——————————————————
+#CyberSecurity #Ransomware #Leakage #Threat
+#SecureBusinessContinuity
+
+https://www.linkedin.com/posts/diyako-secure-bow_state-of-ransomware-2023-activity-7195336246406086658-x6AM?utm_source=share&utm_medium=member_ios",-10,10,preditivo,,,conti,,2
+H01446,2024-09-20,other,BingX,SG,,0.572,T000160,2024-09-17,HackingBlogsGroup,"ransomware,data_breach","💀Kawasaki Was Hacked : RansomHub releases 487GB of Leaked Data
+
+487 gigabytes of data reportedly stolen from motorbike company Kawasaki Motors Europe (KME) have been made public by the RansomHub ransomware organisation.Financial and corporate information were compromised, which makes cybersecurity worries for international companies more pressing.
+
+“At the start of September, Kawasaki Motors Europe, (KME) was the subject of a cyber-attack which, although not successful, resulted in the company’s",-3,3,preditivo,,,ransomhub,,2
+H01468,2024-09-27,vulnerability,Bedrock,,vuln_exploit,0.5712,T000154,2024-09-24,HackingBlogsGroup,,"🚨$230 Million Bitcoin Were Stolen Which Are Now Recovered : Hacker Under Arrest
+
+Background Story : 230 Million Bitcoin Were Stolen
+Were you aware that on August 19, 2024, Zachxbt The Anonymous Crypto Investigator warned the public saying Seven hours ago a suspicious transfer was made from a possible victim for 4064 BTC ($238M). 
+
+💀The attackers, acting as help professionals from Google and Gemini, fooled the victim into resetting two-factor authentication (2FA) and transferring cash to a compro",-3,3,preditivo,,,,anonymous,2
+H00244,2023-04-20,malware,Montana State University,US,"ransomware,malware",0.5711,T002030,2023-04-06,cissp,"ransomware,malware","Malware analysis
+1. ALPHV Ransomware
+https://www.mandiant.com/resources/blog/alphv-ransomware-backup
+
+2. Analyzing the efile*com Malware
+https://isc.sans.edu/diary/Analyzing+the+efilecom+Malware+efail/29712
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defense Today,
+Secure Tomorrow
+@CisoasaService
+1402.01.17",-14,14,preditivo,,,alphv,,2
+H00652,2023-09-27,malware,Mount Graham Regional Medical Center,US,"ransomware,malware,data_breach",0.5709,T001608,2023-09-16,cissp,"ransomware,malware","Malware analysis
+MA detailed analysis of the Money Message Ransomware 2023
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.06.25",-11,11,preditivo,,,money message,,2
+H00864,2023-10-31,malware,DePauw University,US,"ransomware,malware",0.5684,T001526,2023-10-23,cissp,"phishing,malware","Malware analysis
+1. LummaStealer Malware
+https://blogs.vmware.com/security/2023/10/an-ilummanation-on-lummastealer.html
+
+2. Munchkin malware utility
+https://unit42.paloaltonetworks.com/blackcat-ransomware-releases-new-utility-munchkin
+
+3. Analysis of Hospitality Phishing Campaign
+https://www.akamai.com/blog/security-research/2023/oct/hospitality-phishing-campaign-DNS-analysis-global-threat
+
+
+⁩-Cyber Security awareness-
+ 
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.08.01",-8,8,preditivo,,,blackcat,,2
+H01573,2024-11-21,malware,Multiple organizations in Japan,JP,malware,0.568,T000116,2024-11-15,HackingBlogsGroup,"ransomware,malware","🚨Beware Of These 8 Fake Application On Google Playstore As They Contain Trojan Android.FakeApp.1669
+
+Hi everyone, this is a crucial article since it details a dangerous false program that has been approved by the Google PlayStore and may be installed. Without further ado, let us get started. We are able to say that not everything that glitters is gold, as in this case, even though applications can be trusted, they still include harmful trojans and spyware.
+
+Understanding The Virus : Android.Fake",-6,6,preditivo,,,play,,2
+H00176,2023-03-26,other,Western Digital,US,ransomware,0.5677,T002097,2023-03-18,cissp,ransomware,"🔐👾 LockBit 3.0 — FBI, CISA, and MS-ISAC have issued a joint advisory on this dangerous ransomware, detailing indicators of compromise, tactics, techniques and procedures.
+
+Read: https://thehackernews.com/2023/03/lockbit-30-ransomware-inside.html
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.27",-8,8,preditivo,,,lockbit,,2
+H01031,2023-08-27,other,Keenan & Associates,US,data_breach,0.5675,T001683,2023-08-20,cissp,ransomware,"#DiyakoSecureBow
+———————————
+ThreatResearch:
+Common TTPs of attacks against industrial organizations. Implants for gathering data 2023.
+
+-Business Secure Continuity-
+1402.05.30
+———————————————————
+#mitreattack  #OT #operationaltechnology #icssecurity #scadasecurity   
+#BusinessSecureContinuity 
+
+https://www.linkedin.com/posts/diyako-secure-bow_ics-ttps-security-2023-activity-7099131164140924928-N_XT?utm_source=share&utm_medium=member_ios",-7,7,preditivo,,,conti,,2
+H00366,2023-06-14,vulnerability,Hashflow,,vuln_exploit,0.5673,T001865,2023-06-09,cissp,"ransomware,malware","Malware analysis
+Akira Ransomware
+https://news.sophos.com/en-us/2023/05/09/akira-ransomware-is-bringin-88-back
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.03.19",-5,5,preditivo,,,akira,,2
+H01307,2024-06-18,malware,Multiple organizations,IN,malware,0.5644,T001323,2024-06-12,cissp,"ransomware,malware","#DiyakoSecureBow
+————————————
+Whitepaper
+Malware analysis
+Windows Rootkits Guide 2024.
+
+Special Thanks❤️😇👍🏽🙏
+Artem Baranov
+
+-Secure Business Continuity-
+2024.06.12
+——————————————————
+#CyberSecurity #rootcit #Malware 
+#SecureBusinessContinuity
+
+https://www.linkedin.com/posts/diyako-secure-bow_win-rootkits-2024-activity-7206507797079896064-iutL?utm_source=share&utm_medium=member_ios",-6,6,preditivo,,,conti,,2
+H00798,2023-09-23,malware,Moneris,CA,"ransomware,malware,data_breach",0.5636,T001608,2023-09-16,cissp,"ransomware,malware","Malware analysis
+MA detailed analysis of the Money Message Ransomware 2023
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.06.25",-7,7,preditivo,,,money message,,2
+H00754,2023-08-31,other,Truepill,US,data_breach,0.5627,T001683,2023-08-20,cissp,ransomware,"#DiyakoSecureBow
+———————————
+ThreatResearch:
+Common TTPs of attacks against industrial organizations. Implants for gathering data 2023.
+
+-Business Secure Continuity-
+1402.05.30
+———————————————————
+#mitreattack  #OT #operationaltechnology #icssecurity #scadasecurity   
+#BusinessSecureContinuity 
+
+https://www.linkedin.com/posts/diyako-secure-bow_ics-ttps-security-2023-activity-7099131164140924928-N_XT?utm_source=share&utm_medium=member_ios",-11,11,preditivo,,,conti,,2
+H00224,2023-03-27,malware,Albany ENT & Allergy Services,US,"ransomware,malware,data_breach",0.5614,T002097,2023-03-18,cissp,ransomware,"🔐👾 LockBit 3.0 — FBI, CISA, and MS-ISAC have issued a joint advisory on this dangerous ransomware, detailing indicators of compromise, tactics, techniques and procedures.
+
+Read: https://thehackernews.com/2023/03/lockbit-30-ransomware-inside.html
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.27",-9,9,preditivo,,,lockbit,,2
+H00531,2023-08-14,malware,Multiple organizations,>1,malware,0.5589,T001729,2023-08-02,cissp,"ransomware,malware","#DiyakoSecureBow
+
+Malware analysis
+VirusTotal Malware Trends Report:
+Emerging Formats and Delivery Techniques
+https://lnkd.in/eXe4Hzzs
+
+-Business Secure Continuity-
+1402.05.11
+
+#malwareprotection  #malwareanalysis #malwareremoval #malicious #malwareattack 
+ #BusinessSecureContinuity",-12,12,preditivo,,,conti,,2
+H01450,2024-09-20,vulnerability,Shezmu,,,0.5585,T000160,2024-09-17,HackingBlogsGroup,"ransomware,data_breach","💀Kawasaki Was Hacked : RansomHub releases 487GB of Leaked Data
+
+487 gigabytes of data reportedly stolen from motorbike company Kawasaki Motors Europe (KME) have been made public by the RansomHub ransomware organisation.Financial and corporate information were compromised, which makes cybersecurity worries for international companies more pressing.
+
+“At the start of September, Kawasaki Motors Europe, (KME) was the subject of a cyber-attack which, although not successful, resulted in the company’s",-3,3,preditivo,,,ransomhub,,2
+H00618,2023-02-17,malware,Skidmore College,US,"ransomware,malware,data_breach",0.5583,T002162,2023-02-12,cissp,"ransomware,malware","Malware analysis
+1. Qakbot mechanizes distribution of malicious OneNote notebooks
+https://news.sophos.com/en-us/2023/02/06/qakbot-onenote-attacks
+
+2. Cl0p Ransomware
+https://www.sentinelone.com/labs/cl0p-ransomware-targets-linux-systems-with-flawed-encryption-decryptor-available
+
+3. ESXiArgs Ransomware
+https://blogs.blackberry.com/en/2023/02/esxiargs-ransomware-knocking-out-unpatched-vmware-esxi-linux-servers-worldwide
+
+]-> Tool to recover from ESXiArgs ransomware:
+https://github.com/cisagov/ESX",-5,5,preditivo,,,cl0p,,2
+H01272,2024-02-29,ransomware,United Seating and Mobility d/b/a Numotion,US,ransomware,0.5563,T069602,2024-02-21,hackers_asylum,"ransomware,data_breach","**🚨LockBit Ransomware Gang Exposed: NCA and Law Enforcement Sting Reveals Affiliate Details**
+
+
+In a groundbreaking development, the National Crime Agency (NCA) and international law enforcement agencies have uncovered a major breakthrough in the fight against cybercrime. A substantial amount of data was exfiltrated from LockBit's platform before its corruption, marking a pivotal moment in dismantling the criminal infrastructure behind the nefarious LockBit ransomware operations.
+
+
+The exposed d",-8,8,preditivo,,,lockbit,,2
+H01471,2024-09-27,ransomware,Richmond Community Schools,US,ransomware,0.5558,T000160,2024-09-17,HackingBlogsGroup,"ransomware,data_breach","💀Kawasaki Was Hacked : RansomHub releases 487GB of Leaked Data
+
+487 gigabytes of data reportedly stolen from motorbike company Kawasaki Motors Europe (KME) have been made public by the RansomHub ransomware organisation.Financial and corporate information were compromised, which makes cybersecurity worries for international companies more pressing.
+
+“At the start of September, Kawasaki Motors Europe, (KME) was the subject of a cyber-attack which, although not successful, resulted in the company’s",-10,10,preditivo,,,ransomhub,,2
+H01263,2024-06-03,ransomware,Synnovis,GB,ransomware,0.5551,T000605,2024-05-20,PHOfficial,"ransomware,malware","‌**Drs-Malware-Scan – Perform File-Based Malware Scan On Your On-Prem Servers With AWS**
+
+Challenges with on-premises malware detection It can be difficult for security teams to continuously…
+[Read more on Professional Hackers](https://professionalhackers.in/drs-malware-scan-perform-file-based-malware-scan-on-your-on-prem-servers-with-aws/)
+
+#Aws_Guardduty #Disaster_Recovery #Drs_Malware_Scan #KitPloit #Ransomware_Prevention",-14,14,preditivo,,,conti,,2
+H00174,2023-03-29,malware,SONDA,CL,"ransomware,malware",0.5546,T002098,2023-03-17,cissp,"ransomware,malware","Malware analysis
+1. MedusaLocker Ransomware
+https://blog.cyble.com/2023/03/15/unmasking-medusalocker-ransomware
+
+2. Magniber ransomware
+https://blog.google/threat-analysis-group/magniber-ransomware-actors-used-a-variant-of-microsoft-smartscreen-bypass
+
+3. Decrypt strings stealc stealer
+https://github.com/MalGamy/Scripts-With-Malware-Analysis/blob/main/stealc_stealer/decrypt_strings_stealc_stealer.py
+
+
+-Cyber Security awareness-
+
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1401.12.26",-12,12,preditivo,,,medusa,,2
+H00093,2023-02-22,malware,CIty of Lakewood,US,"ransomware,malware,data_breach",0.5541,T002162,2023-02-12,cissp,"ransomware,malware","Malware analysis
+1. Qakbot mechanizes distribution of malicious OneNote notebooks
+https://news.sophos.com/en-us/2023/02/06/qakbot-onenote-attacks
+
+2. Cl0p Ransomware
+https://www.sentinelone.com/labs/cl0p-ransomware-targets-linux-systems-with-flawed-encryption-decryptor-available
+
+3. ESXiArgs Ransomware
+https://blogs.blackberry.com/en/2023/02/esxiargs-ransomware-knocking-out-unpatched-vmware-esxi-linux-servers-worldwide
+
+]-> Tool to recover from ESXiArgs ransomware:
+https://github.com/cisagov/ESX",-10,10,preditivo,,,cl0p,,2
+H00885,2023-11-03,malware,Hi-School Pharmacy,CA,"ransomware,malware",0.553,T001526,2023-10-23,cissp,"phishing,malware","Malware analysis
+1. LummaStealer Malware
+https://blogs.vmware.com/security/2023/10/an-ilummanation-on-lummastealer.html
+
+2. Munchkin malware utility
+https://unit42.paloaltonetworks.com/blackcat-ransomware-releases-new-utility-munchkin
+
+3. Analysis of Hospitality Phishing Campaign
+https://www.akamai.com/blog/security-research/2023/oct/hospitality-phishing-campaign-DNS-analysis-global-threat
+
+
+⁩-Cyber Security awareness-
+ 
+Up2date 4 Defence Today,
+Secure Tomorrow
+@CisoasaService
+1402.08.01",-11,11,preditivo,,,blackcat,,2
+H01354,2024-06-21,malware,Individuals in the U.S.,US,malware,0.5522,T001323,2024-06-12,cissp,"ransomware,malware","#DiyakoSecureBow
+————————————
+Whitepaper
+Malware analysis
+Windows Rootkits Guide 2024.
+
+Special Thanks❤️😇👍🏽🙏
+Artem Baranov
+
+-Secure Business Continuity-
+2024.06.12
+——————————————————
+#CyberSecurity #rootcit #Malware 
+#SecureBusinessContinuity
+
+https://www.linkedin.com/posts/diyako-secure-bow_win-rootkits-2024-activity-7206507797079896064-iutL?utm_source=share&utm_medium=member_ios",-9,9,preditivo,,,conti,,2
+H00099,2023-02-20,malware,Minneapolis Public Schools,US,"ransomware,malware",0.55,T002162,2023-02-12,cissp,"ransomware,malware","Malware analysis
+1. Qakbot mechanizes distribution of malicious OneNote notebooks
+https://news.sophos.com/en-us/2023/02/06/qakbot-onenote-attacks
+
+2. Cl0p Ransomware
+https://www.sentinelone.com/labs/cl0p-ransomware-targets-linux-systems-with-flawed-encryption-decryptor-available
+
+3. ESXiArgs Ransomware
+https://blogs.blackberry.com/en/2023/02/esxiargs-ransomware-knocking-out-unpatched-vmware-esxi-linux-servers-worldwide
+
+]-> Tool to recover from ESXiArgs ransomware:
+https://github.com/cisagov/ESX",-8,8,preditivo,,,cl0p,,2

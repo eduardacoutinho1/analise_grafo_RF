@@ -1,0 +1,11 @@
+﻿metrica,valor
+Precisão,0.5116
+Recall,0.8148
+F1-Score,0.6286
+AUC-ROC,0.8767
+Verdadeiros Positivos,22.0
+Falsos Positivos,21.0
+Verdadeiros Negativos,61.0
+Falsos Negativos,5.0
+CV F1 (média),0.6842
+CV F1 (desvio),0.0266
